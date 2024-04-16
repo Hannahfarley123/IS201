@@ -1,0 +1,39 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: salmon;
+    text-align: center;
+
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    margin: 40px;
+    background-color: rgb(250, 247, 242);
+ 
+}
+.header{
+    background-color: peachpuff;
+    height: 100px;  
+    line-height: 100px;
+}
+.nav-link{
+    color: black;
+}
+.contact{
+    background-color: peachpuff;
+    height: 100px;  
+    line-height: 100px;
+}
+
+.gallery{
+    background-color: peachpuff;
+    height: 100px;  
+    line-height: 100px;
+}
+.galleryimg{
+    width: 35%
+}
+.email{
+    color: black
+}
+
